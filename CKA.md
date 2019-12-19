@@ -47,3 +47,20 @@ The CKA exam costs 300 USD, and it includes one free retake. You may use a bundl
 2. Read Kubernetes the hard way; Kubernetes the hard way will walk you through the manual installation proces. You will learn how to install, configure, and to create encrypted connection between components.This is a good opportunity to learn how different components work together.
 3. Make sure you understand the components that makes up the K8s cluster, how do they interact and what each component is responsible of, in order to be able to fix the issues for the troubleshooting tasks.
 4. Currently the exam runs on Ubuntu Linux 16. Make sure that you know how to interact with system services on this GNU Linux distribution.
+
+### Online Training
+* [Linux Foundation](https://training.linuxfoundation.org/training/kubernetes-fundamentals/)
+* Linux Academy - [Kubernetes the Hard Way](https://linuxacademy.com/course/kubernetes-the-hard-way/)
+* Linux Academy - [Cloud Native Certified Kubernetes Administrator (CKA)](https://linuxacademy.com/cp/modules/view/id/327)
+* A Cloud Guru - 
+* Udemy [Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests)
+
+### Articles & Resources
+* [How to pass CKAD exam in first attempt ? Tips & Tricks in Kubernetes](https://medium.com/@nikhilagrawal577/how-to-pass-ckad-exam-in-1st-attempt-tips-tricks-in-k8s-9e14477699ca)
+* [Passing Certified Kubernetes Administrator: My lessons learned](https://medium.com/faun/passing-certified-kubernetes-administrator-exam-tips-d5107d8e3e7b)
+* https://github.com/walidshaari/Kubernetes-Certified-Administrator
+* https://www.youtube.com/watch?v=4XAlFEVKGOw&list=PL5cnXKhXmBeZlQSe6xBSchFCM2Mi3fYCa
+* https://www.youtube.com/watch?v=0Omvgd7Hg1I
+* [Instruqt.com](https://play.instruqt.com/public) — has some nice Kubernetes scenarios.
+* https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+* https://medium.com/akena-blog/k8s-admin-exam-tips-22961241ba7d
